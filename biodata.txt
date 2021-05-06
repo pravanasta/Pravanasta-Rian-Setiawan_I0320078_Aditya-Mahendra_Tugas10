@@ -1,0 +1,9 @@
+Nama: Dono
+Umur: 20
+Alamat: Karangsari
+Jenis kelamin: Laki-laki
+
+Nama: Budi Waseso
+Umur: 19
+Alamat: Malang
+Jenis kelamin: Laki-laki
